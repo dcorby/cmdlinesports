@@ -1,2 +1,3 @@
 .git
 *.swp
+.venv3.10
